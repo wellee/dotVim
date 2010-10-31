@@ -76,3 +76,6 @@
 [submodule "bundle/vim-ruby-sinatra"]
 	path = bundle/vim-ruby-sinatra
 	url = git://github.com/hallison/vim-ruby-sinatra.git
+[submodule "bundle/securemodelines"]
+	path = bundle/securemodelines
+	url = git://github.com/ciaranm/securemodelines.git
