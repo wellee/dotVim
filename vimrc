@@ -390,6 +390,9 @@ map <C-j> <C-w>j
 map <C-k> <C-w>k
 map <C-l> <C-w>l
 
+"key mapping for saving file
+nmap <C-s> :w<CR>
+
 "key mapping for tab navigation
 nmap <Tab> gt
 nmap <S-Tab> gT
