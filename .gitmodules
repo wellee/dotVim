@@ -104,3 +104,6 @@
 [submodule "bundle/vim-textobj-rubybloc"]
 	path = bundle/vim-textobj-rubybloc
 	url = git://github.com/nelstrom/vim-textobj-rubyblock.git
+[submodule "bundle/vim-preview"]
+	path = bundle/vim-preview
+	url = git://github.com/greyblake/vim-preview.git
