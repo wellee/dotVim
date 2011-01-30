@@ -58,7 +58,7 @@ loads the pre-configured one that comes bundled in this package. You can do it
 on Linux/Mac like this:
 
 <pre><code>
-echo "source ~/.vim/vimrc > ~/.vimrc"
+echo "source ~/.vim/vimrc" > ~/.vimrc"
 </code></pre>
 
 On Windows you should create a <tt>_vimrc</tt> (underline instead of dot) and add
