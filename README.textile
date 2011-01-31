@@ -71,6 +71,23 @@ source ~/vimfiles/vimrc
 This way you can override the default configuration by adding your own inside
 this file.
 
+You should also create a new <tt>.gvimrc</tt> file in your home directory. You can do 
+it on Linux/Mac like this:
+
+<pre><code>
+echo "source ~/.vim/gvimrc > ~/.gvimrc"
+</code></pre>
+
+On Windows you should create a <tt>_gvimrc</tt> (underline instead of dot) and add
+the following line inside:
+
+<pre><code>
+source ~/vimfiles/gvimrc
+</code></pre>
+
+This way you can override the default GUI configuration by adding your own inside
+this file.
+
 h2. Help Tags
 
 At first usage of vim, type ":" while in command mode and execute:
