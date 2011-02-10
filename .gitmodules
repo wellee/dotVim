@@ -112,7 +112,7 @@
 	url = git://github.com/tpope/vim-abolish.git
 [submodule "bundle/grails-vim"]
 	path = bundle/grails-vim
-	url = git://github.com/vim-scripts/grails-vim.git
+	url = git://github.com/felipero/grails-vim.git
 [submodule "bundle/liftweb"]
 	path = bundle/liftweb
 	url = git://github.com/Shadowfiend/liftweb-vim.git
