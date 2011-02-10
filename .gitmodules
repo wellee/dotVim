@@ -113,3 +113,9 @@
 [submodule "bundle/grails-vim"]
 	path = bundle/grails-vim
 	url = git://github.com/vim-scripts/grails-vim.git
+[submodule "bundle/liftweb"]
+	path = bundle/liftweb
+	url = git://github.com/Shadowfiend/liftweb-vim.git
+[submodule "bundle/scala"]
+	path = bundle/scala
+	url = git://github.com/akhil/scala-vim-bundle.git
