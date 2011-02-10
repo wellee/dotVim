@@ -119,3 +119,6 @@
 [submodule "bundle/grails-vim"]
 	path = bundle/grails-vim
 	url = git://github.com/felipero/grails-vim.git
+[submodule "bundle/clojure"]
+	path = bundle/clojure
+	url = git://github.com/vim-scripts/VimClojure.git
