@@ -110,3 +110,6 @@
 [submodule "bundle/abolish"]
 	path = bundle/abolish
 	url = git://github.com/tpope/vim-abolish.git
+[submodule "bundle/grails-vim"]
+	path = bundle/grails-vim
+	url = git://github.com/vim-scripts/grails-vim.git
