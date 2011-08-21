@@ -1,6 +1,6 @@
-h1. Vim
-h2. This is alterd from akitaonrails's dotVim, and added some personal features.
+h1. This is alterd from akitaonrails's dotVim, and added some personal features.
 
+h1. Vim
 It is recommended that you use gVim in either Windows or Linux and MacVim for
 Mac. Download from:
 
