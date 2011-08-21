@@ -1,4 +1,5 @@
 h1. Vim
+h2. This is alterd from akitaonrails's dotVim, and added some personal features.
 
 It is recommended that you use gVim in either Windows or Linux and MacVim for
 Mac. Download from:
@@ -44,7 +45,7 @@ Clone this repo into your home directory either as .vim (linux/mac) or
 vimfiles (Windows). Such as:
 
 <pre><code>
-git clone git://github.com/akitaonrails/vimfiles.git ~/.vim
+git clone git://github.com/wellee/dotVim.git
 </pre></code>
 
 Then 'cd' into the repo and run this to get the snippets submodule:
